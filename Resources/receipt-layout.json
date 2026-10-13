@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "marginDots": 8,
+  "paperTopDots": 24,
+  "paperBottomDots": 56,
+  "baseTextSize": 22,
+  "lineSpacing": 1.35,
+  "columnGapDots": 12,
+  "boxPaddingDots": 10,
+  "lineHeightDots": 28,
+  "darkThreshold": 128,
+  "maxBandHeight": 255,
+  "cutFeedDots": 24,
+  "paperWidths": {
+    "58": 384,
+    "80": 576
+  },
+  "fontFamily": "Noto Naskh Arabic",
+  "systemName": "PLATAURA"
+}
